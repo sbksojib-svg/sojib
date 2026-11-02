@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge Video Portal & Admin Suite",
+  "description": "Video learning platform with secure Super Admin authentication, manual bKash & Nagad payment approvals, video management, and full Vercel deployment readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
